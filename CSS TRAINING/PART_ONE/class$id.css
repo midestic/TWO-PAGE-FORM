@@ -1,0 +1,20 @@
+/* selected tag {
+    property : value }
+    */
+    .first-div {
+        color: cyan;
+        border: thick dotted blue;
+        border-color: blue;
+        border-width: thick;
+        border-style: dotted;
+        
+    }
+    .sec-div {
+        color: greenyellow;
+        border: thin solid black;
+    }
+
+    #slogan {
+        color: blue;
+        
+    }

@@ -1,0 +1,46 @@
+/* selected tag {
+    property : value }
+    */ 
+    body {
+        background: url("765987.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .signup-box {
+        background: rgba( 44, 62,80, 0.7);
+        padding: 40;
+        width: 250;
+        margin-top: 0;
+        margin-left: auto;
+        margin-right: auto;
+
+
+    }
+
+    form {
+        width: 240;
+        text-align: center;
+        
+    }
+
+    input {
+        width: 249;
+        background: transparent;
+        border: 0;
+        border-bottom: 2px solid white;
+        text-align: center;
+        font-size: 18;
+        font-weight: 10;
+        padding: 10 ;
+        transition: border 0.5s;
+        outline: none;
+        height: 35;
+    }
+
+    button {
+        padding: 10;
+        width: 100;
+        border: none;
+        border-radius: 25px;
+        cursor: pointer;
+    }

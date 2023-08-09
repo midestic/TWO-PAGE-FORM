@@ -1,0 +1,19 @@
+/* selected tag {
+    property : value
+} */
+
+h1 {
+    color:blue;
+}
+
+body {
+    background-color:grey;
+}
+
+ol {
+    color: white;
+    font-size: 24 ;
+    font-family: monospace, 'Times New Roman',
+     Times, serif;
+      
+} 
